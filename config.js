@@ -49,7 +49,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`SEBAS™`",
-  author: process.env.PACK_AUTHER || "QUEEN_ANITA-V2",
+  author: process.env.PACK_AUTHER || "S E B A S",
   packname: process.env.PACK_NAME || "SEBAS",
   botname: process.env.BOT_NAME || "SEBAS BOT",
   ownername: process.env.OWNER_NAME || "David Cyril",

@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## QUEEN_ANITA-V2 Deployment Methods 3 secs
 
 ### 1. FORK THIS REPO
 
@@ -100,7 +100,7 @@
   #### ```DAVID CYRIL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
  ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) 
  
@@ -117,6 +117,7 @@ SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VafEBFX2Jl8DSYclsS08"
 
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
-<b>Version -> 2.0.0</b>
+<b>Version -> 2.0.0</b> suge o bai
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ rezolva ba botuu

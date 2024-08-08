@@ -1,5 +1,5 @@
 {
-    "name": "Queen_Anita-V2",
+    "name": "Nassir_Anita-V2",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
@@ -8,14 +8,14 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
+        "description": "Agreement",
         "value": "Queen_Anita-V2",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
+        "value": "truee",
         "required": false
       },
       "USER_IMAGES": {
@@ -38,8 +38,8 @@
         "value": "https://i.imgur.com/H4qeXwa.jpeg"
       },
       "BOT_NAME": {
-        "description": " NAME FOR BOT",
-        "required": false,
+        "description": "NAMEDBOT",
+        "required": true,
         "value": "Queen_Anita-V2"
       },
       "TZ": {
@@ -49,8 +49,8 @@
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
-        "required": false,
-        "value": "false"
+        "required": true,
+        "value": "true"
       },
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -64,22 +64,22 @@
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
-        "value": "",
-        "required": true
+        "value": "false",
+        "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Put Your Heroku App Name Here",
-        "value": "",
-        "required": true
+        "value": "false",
+        "required": false
       },
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "recording"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
-        "required": false,
+        "required": true,
         "value": "true"
       },
       "MSGS_IN_LOG": {
@@ -103,11 +103,11 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "255775237100"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUJEQUdLL1FEL3E5QkdobE91SjYyWU9OenpGQ1BrSE9pSmtUSWpaaEhIbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibXliWDg4ci83c05FOW4vdjdRMWQ1WENXMmx4MHhLc01XTm5CMGNQMUhCOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlR1g5OVNnWGdRdGViSHlhcjZtN0t1Y3Ftd3lXWSt2TFRzT0JpZldPNFdZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJMOUpac1k0a3JyeDIwMEJGb2tSbDFuTDZvZHFpcWU0WXo3VHlmYkJ3bEM4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImNFMS9iTUtxeC9rN04wVGs1em5PdzBneURqc1BXdTFkcm9QRFRBUlVmbmM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkpYUzZPeklVYURBQXFwOGJ6eVdpbWpOSSt3a29CclRJa2Y4eVdSU1JqaGM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0phMEVKS3czeGxQd1lzaEFUcTYzMm1YVFM0NHFKWWRTMTJVUVBlQVRsWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0Q0RXdZcm9NZkRoeVByalo4RjJDWGhwNmtDODNVd2g3cUtBdmUwUzdTdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlR2OCs2TS9ET0t1MWo4SDVtamtWZ0kvTXo2Y1plNUNFYzJidk53STVkd0Z4dGNsVXo1QXc3QmN6TjVxT1VqUWFreGY4Yy94bDNHbTE4Q2ppL3ducGpRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc2LCJhZHZTZWNyZXRLZXkiOiIvdTk0ekdyRTBUbExqbTdUK1lzUDFZUXFyeXA0NW5LWEdLelpnNzU4TmxNPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJUd0YyWmZYS1JoR0FLMnlibUg0TmR3IiwicGhvbmVJZCI6IjkyMmMxNjQ4LWJkYmQtNDY1My1iYzVlLWNiNDZmZDkyNDFlOCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzc1g2VHd2cHhnMVdlYWZEQ25hK25RdjdFbFk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQm1BRmdqV0RqMnk1UDhmUUNIbDcxb3lIanYwPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ijk4RlMxQkhHIiwibWUiOnsiaWQiOiIyNTU3NzUyMzcxMDA6NDNAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0tyQ3F0VURFTi9SdWJVR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjlqRlNVT0wyWkZFdm8rR0UyTExVdi9TM3VuZU9vY0ExQXNpbmczQnhLM2c9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImhzSmUwWjFFTVNjdXhRL3RFL0JxODdpVG93Nk03eDhkZEswTytTRGNjY3B2WUZCMm9iSElEd3lWdFNoMEthOFBKVnpjODdFdnJKTENCSU41QXErVkJBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJWQkkxR1RhaXV1UkRZTzc2VWFHd3Z5dmkzN0ZVUXdtcWVPWnNKeTF0dmpocmJMcCs0bEZwZENTajN1ZzlkSjNwcG5EVFBwcEpucGVxdHA4MDVTVXVoZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTc3NTIzNzEwMDo0M0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJmWXhVbERpOW1SUkw2UGhoTml5MUwvMHQ3cDNqcUhBTlFMSXA0TndjU3Q0In19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIyNzA2MTU4fQ=="
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",

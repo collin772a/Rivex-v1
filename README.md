@@ -106,7 +106,7 @@
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
   #### ```COLLINS SMITH PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/collin772a/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
